@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/> <br/>
-&nbsp;&nbsp;&nbsp;🔭 I’m currently working and highly interested in Web Development. <br/>
-&nbsp;&nbsp;&nbsp;📫 How to reach me: b22cs071@iitj.ac.in / rishicpatelrp@gmail.com <br/>
-&nbsp;&nbsp;&nbsp;⚡ Fun fact: I use tabs over spaces <br/>
-&nbsp;&nbsp;&nbsp;🚩 Red Flags : I don't trust people who write SQL queries in lowercase 
+🔭 I’m currently working and highly interested in Web Development. <br/>
+📫 How to reach me: b22cs071@iitj.ac.in / rishicpatelrp@gmail.com <br/>
+⚡ Fun fact: I use tabs over spaces <br/>
+🚩 Red Flags : I don't trust people who write SQL queries in lowercase 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-patel-092b90258/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishi___37/) 
@@ -15,7 +15,7 @@ I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working rem
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishyy37&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvak001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishyy37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
