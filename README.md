@@ -1,8 +1,9 @@
 ## Hi there 👋
-I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/>
-🔭 I’m currently working and highly interested in Open Source Projects. <br/>
-📫 How to reach me: b22cs071@iitj.ac.in / rishicpatelrp@gmail.com <br/>
-⚡ Fun fact: I use tabs over spaces
+I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/> <br/>
+&nbsp;&nbsp;&nbsp;🔭 I’m currently working and highly interested in Web Development. <br/>
+&nbsp;&nbsp;&nbsp;📫 How to reach me: b22cs071@iitj.ac.in / rishicpatelrp@gmail.com <br/>
+&nbsp;&nbsp;&nbsp;⚡ Fun fact: I use tabs over spaces <br/>
+&nbsp;&nbsp;&nbsp;🚩 Red Flags : I don't trust people who write SQL queries in lowercase 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-patel-092b90258/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishi___37/) 
@@ -18,16 +19,14 @@ I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working rem
 </div>
 
 
-
 ##
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rishyy37/Rishyy37/output/snake.svg" alt="Snake animation" />
-
 ###
+
 
 
 ## 🏆 GitHub Trophies
