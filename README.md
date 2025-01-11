@@ -1,11 +1,11 @@
 ## Hi there 👋
-I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/>
+I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/>
 🔭 I’m currently working and highly interested in Open Source Projects. <br/>
-📫 How to reach me: b22ai017@iitj.ac.in / dhruvakkaushal@gmail.com <br/>
+📫 How to reach me: b22cs071@iitj.ac.in / rishicpatelrp@gmail.com <br/>
 ⚡ Fun fact: I use tabs over spaces
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruvakkaushal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/dhruvvvvvaaa) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-patel-092b90258/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishi___37/) 
 
 
 ## 📊 GitHub Stats:
