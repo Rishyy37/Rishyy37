@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/> <br/>
+I'm Rishi, a full-time Full Stack Development Enthusiast 👨‍💻 open to work remotely 🚀 <br/> <br/>
 🔭 I’m currently working and highly interested in Web Development. <br/>
 📫 How to reach me: b22cs071@iitj.ac.in / rishicpatelrp@gmail.com <br/>
 ⚡ Fun fact: I use tabs over spaces <br/>
